@@ -5,7 +5,7 @@ This repository contains the setup for the data modeling modules in Weeks 1 and 
 :wrench: **Tech Stack**
 
 - Git
-- Postgres
+- PostgresT
 - PSQL CLI
 - Database management environment (DataGrip, DBeaver, VS Code with extensions, etc.)
 - Docker, Docker Compose, and Docker Desktop
